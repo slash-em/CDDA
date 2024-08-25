@@ -1,0 +1,44 @@
+[
+  {
+    "type": "snippet",
+    "category": "radio_archive",
+    "text": [
+     "My name is Marcus Crump. I know that. It's cold, why is it so cold? Am I hallucinating? Yes, I'm always hallucinating. The world is an illusion. It's the portal storms! A time loop... an endless loop? I have died so many times. How many zombies are Marcus Crump? I should never have come in here. The eye of the portal storm is just this endless horror, isn't it? I live, I create, I die, I return. Don't enter the storms! Can anyone here me? Help me! Oh god... the storm is in motion again. The swirling, I can feel it pulling me apart! I don't want to go back again! Please!"
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_0",
+    "text": [ "It's quite clear." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_20",
+    "text": [ "There's some noise, but you can make it out pretty well." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_40",
+    "text": [ "There's a fair bit of noise, but you can occasionally make it out." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_60",
+    "text": [ "There's a lot of noise, but you can make out something through it." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_80",
+    "text": [ "You can barely make out a message through the noise." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_station_desc_noise_max",
+    "text": [ "Only the occasional word escapes the static." ]
+  },
+  {
+    "type": "snippet",
+    "category": "radio_scan_no_stations",
+    "text": [ "You fiddle with the dial a bit, but there's only noise." ]
+  }
+]

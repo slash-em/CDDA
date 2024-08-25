@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Radio_ID",
+    "name": "Slashem's Radio Snippets Mod",
+    "authors": [ "J. Spresser", "Thanks to Lady Vivean" ],
+    "description": "This mod adds flavor text to the radio broadcasts",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
